@@ -1,0 +1,23 @@
+# Build artifacts
+bin/
+obj/
+publish/
+output/
+artifacts/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test / temp files
+*.nso
+main_dec*
+TestResults/
