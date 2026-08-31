@@ -1,7 +1,5 @@
 # Il2CppDumper
 
-**Version 6.7.47**
-
 Updated version of [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) by Perfare.
 Extracts classes, methods, fields and strings from IL2CPP games: generates `dump.cs`, `DummyDll/*.dll`, IDA/Ghidra scripts.
 
