@@ -3,9 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <Version>1.1.0.0</Version>
-    <AssemblyVersion>1.1.0.0</AssemblyVersion>
-    <FileVersion>1.1.0.0</FileVersion>
+    <Version>6.7.47</Version>
+    <AssemblyVersion>6.7.47</AssemblyVersion>
+    <FileVersion>6.7.47</FileVersion>
     <Copyright>Copyright © Perfare 2016-2024, updated fork</Copyright>
     <DebugType>embedded</DebugType>
     <LangVersion>latest</LangVersion>
